@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="37" height="18" id="svg3783" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <g id="layer1" transform="translate(-5.9477962,-1025.4272)">
+    <g id="g3027" transform="matrix(0,-1,1,0,-1048.3622,1052.3622)">
+      <rect style="fill-opacity: 1; stroke-width: 0; stroke-linejoin: round; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0; stroke-opacity: 1; stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);" id="rect-1" width="28.958" height="6.686" x="1056.782" y="-180.139" transform="matrix(0, 1, -1.000001, 0, -153.213758, 1.506348)" rx="0.052" ry="0.052"/>
+      <path style="fill-opacity: 1; stroke-linejoin: round; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0; stroke-opacity: 1; opacity: 0.97; fill: rgb(60, 200, 80);" id="rect3092" transform="matrix(0,1,-1,0,0,0)" d="M 1061.947 -26.935 H 1084.136 A 3.174 3.174 0 0 1 1087.31 -23.761 V -12.109 A 3.174 3.174 0 0 1 1084.136 -8.935 H 1061.484 A 3.174 3.174 0 0 1 1058.31 -12.109 V -23.298 A 3.637 3.637 0 0 1 1061.947 -26.935 Z" bx:shape="rect 1058.31 -26.935 29 18 3.637 3.174 3.174 3.174 1@e881feb9"/>
+      <rect style="fill-opacity: 1; stroke-width: 0; stroke-linejoin: round; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0; stroke-opacity: 1; stroke: rgb(255, 255, 255); fill: rgb(60, 200, 80);" id="rect3883" width="29" height="7.191" x="1058.319" y="-193.752" transform="matrix(0, 1, -0.999999, 0, -178.129909, -0.008545)" rx="0.052" ry="0.052"/>
+      <rect style="fill-opacity: 1; stroke-width: 0; stroke-linejoin: round; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0; stroke-opacity: 1; stroke: rgb(255, 255, 255); fill: rgb(47, 190, 75);" id="rect-2" width="29.042" height="1.17" x="1059.856" y="-31.536" transform="matrix(0, 1, -1.000002, 0, -21.999586, -1.567505)" rx="0.052" ry="0.052"/>
+    </g>
+  </g>
+</svg>

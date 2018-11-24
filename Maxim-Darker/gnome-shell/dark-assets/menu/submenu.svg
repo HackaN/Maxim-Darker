@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="37" height="18" id="svg3783" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g id="layer1" transform="translate(-5.9477962,-1025.4272)">
+    <g id="g3027" transform="matrix(0,-1,1,0,-1048.3622,1052.3622)">
+      <rect style="fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-width: 0; stroke-linejoin: round; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0; stroke-opacity: 1; fill: rgb(250, 250, 250);" id="rect3092" width="28.999735" height="18" x="1058.3102" y="-26.934996" transform="matrix(0,1,-1,0,0,0)"/>
+      <rect style="fill-opacity: 1; stroke-width: 0; stroke-linejoin: round; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0; stroke-opacity: 1; stroke: rgb(0, 0, 0); opacity: 0.05;" id="rect3883" width="29" height="3.181" x="1058.31" y="-31.598" transform="matrix(0, 1, -1.000001, 0, -19.483101, 0)" rx="0.5" ry="0.5"/>
+      <rect style="fill-opacity: 1; stroke-width: 0; stroke-linejoin: round; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0; stroke-opacity: 1; stroke: rgb(0, 0, 0); opacity: 0.05;" id="rect-1" width="29" height="2.236" x="1058.31" y="-22.216" transform="matrix(0, 1, -1, 0, -10.123842, 0.058228)" rx="0.5" ry="0.5"/>
+      <rect style="fill-opacity: 1; stroke-width: 0; stroke-linejoin: round; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0; stroke-opacity: 1; stroke: rgb(0, 0, 0); opacity: 0.09;" id="rect-2" width="29" height="1.147" x="1058.31" y="-11.387" transform="matrix(0, 1, -1, 0, 0.656688, 0.058228)" rx="0.5" ry="0.5"/>
+      <rect style="fill-opacity: 1; stroke-width: 0; stroke-linejoin: round; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0; stroke-opacity: 1; stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255);" id="rect-3" width="29" height="0.807" x="1058.31" y="-8.014" transform="matrix(0, 1, -1.000001, 0, 18.92269, 0.015869)" rx="0.5" ry="0.5"/>
+    </g>
+  </g>
+</svg>

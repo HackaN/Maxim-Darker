@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="32" height="32" viewBox="0 0 32 32.000001" id="svg6621" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g id="layer1" transform="translate(0,-1020.3622)">
+    <rect style="display: inline; opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 0.152941; stroke: rgb(0, 0, 0); stroke-width: 1; stroke-linecap: round; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0; stroke-opacity: 0.380392; visibility: hidden;" id="rect4160" width="31" height="31.000017" x="0.5" y="1020.8622" rx="1.5" ry="1.5"/>
+    <path style="display: inline; opacity: 1; fill: rgb(82, 148, 226); fill-opacity: 1; stroke: none; stroke-width: 1; stroke-linecap: round; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0; stroke-opacity: 0.392157; visibility: hidden;" d="m 2.5,1021.3622 0.5,0 0,30 -0.5,0 c -0.831,0 -1.5,-0.669 -1.5,-1.5 l 0,-27 c 0,-0.831 0.669,-1.5 1.5,-1.5 z" id="rect4162"/>
+  </g>
+</svg>
